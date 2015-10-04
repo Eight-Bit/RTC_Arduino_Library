@@ -1,7 +1,5 @@
 # RTC Library
 
-## Beschreibung
-
 Diese Bibliothek ist eine Abspaltung von JeeLab's RTC Library [[1]] für Arduino.
 
 RTC Library ist eine einfache Bibliothek für die Kommunikation mit RTCs (Real Time Clock) für Arduino.
